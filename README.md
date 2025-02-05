@@ -4,4 +4,3 @@
 s<kjghuakyrg
 <ısıugtuay>>
 
-[lorem ipsum](http://google.com)
